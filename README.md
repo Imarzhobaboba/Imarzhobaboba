@@ -1,6 +1,7 @@
 ## Приветствую вас 👋 
 можете посмотреть мои пет-проекты :
 https://github.com/Imarzhobaboba/confidential_data_keeper
+https://github.com/Imarzhobaboba/restaurant-reviewer-ai-agent
 <!--
 **Imarzhobaboba/Imarzhobaboba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

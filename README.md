@@ -2,6 +2,7 @@
 можете посмотреть мои пет-проекты :
 https://github.com/Imarzhobaboba/confidential_data_keeper
 https://github.com/Imarzhobaboba/restaurant-reviewer-ai-agent
+https://github.com/Imarzhobaboba/telegram-n8n-bot
 <!--
 **Imarzhobaboba/Imarzhobaboba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,8 +4,8 @@
 #### Сервис для безопасного обмена конфиденциальными данными с автоматическим удалением по истечении срока действия
 https://github.com/Imarzhobaboba/confidential_data_keeper
 ![Скриншот интерфейса](./screenshots/scr_confidential.png) 
-https://github.com/Imarzhobaboba/restaurant-reviewer-ai-agent
 #### AI ассистент на основе RAG
+https://github.com/Imarzhobaboba/restaurant-reviewer-ai-agent
 ![Скриншот интерфейса](./screenshots/scr_reviewer.png)  
 #### n8n workflow для телеграм бота
 https://github.com/Imarzhobaboba/telegram-n8n-bot
